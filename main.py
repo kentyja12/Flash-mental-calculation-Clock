@@ -6,9 +6,9 @@ import time
     if the value is trapped by this function,
     it's output as the return value.
         |-(else:num)(No action.)
-        |-(1)(√:if the cotest of √ is an integer.)
+        |-(1)(√:Return in the form of a possible √.)
         |-(2)(Log:Return an integer in the form of a logarithmic function.)
-        |-(3)(a/b:Fractional type notation.)
+        |-(3)(a/b:Return in the shape of a possible fraction)
         |-(4)(Returns a formula for 1.)
         |-(5)(Returns a formula for zero.)
 """
